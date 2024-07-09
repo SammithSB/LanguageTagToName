@@ -38,7 +38,7 @@ publishing{
             groupId = "com.github"
             artifactId = "langtagtolangname"
             version = "1.0.0"
-            artifact("$buildDir/outputs/aar/LangTagToNameLibrary-release.aar")
+            artifact("$buildDir/outputs/aar/langtagtoname-release.aar")
         }
     }
     repositories{
